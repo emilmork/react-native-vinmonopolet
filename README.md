@@ -1,7 +1,7 @@
 ### Vinmonopolet - Native iPhone/Android app
 #### Made with react native
 
-This project is WIP.
+*WIP*
 
 ```bash
 $ npm install
@@ -21,4 +21,13 @@ $ npm start
 ```bash
 $ react-native run-android
 ```
+---
+
+TODO:
+
+- Android version is missing search page
+- Android version is missing favourite page
+- Look into Navigation. Make the navigation cross platform with Navigator ?
+
+
 
